@@ -1,0 +1,10 @@
+﻿Atalasoft.Imaging.Wpf.AtalaImageViewer, Atalasoft.dotImage.Wpf
+Atalasoft.Imaging.AtalaImage, Atalasoft.dotImage
+# If you would like to embed another license, uncomment the corresponding line
+# by uncommenting removing DEMO and the #'s
+#DEMO#Atalasoft.Imaging.Codec.CadCam.DwgDecoder, Atalasoft.dotImage.Dwg
+#DEMO#Atalasoft.Imaging.Codec.Dicom.DicomDecoder, Atalasoft.dotImage.Dicom
+#DEMO#Atalasoft.Imaging.Codec.Jbig2.Jb2Decoder, Atalasoft.dotImage.Jbig2	
+#DEMO#Atalasoft.Imaging.Codec.Jpeg2000.Jp2Decoder, Atalasoft.dotImage.Jpeg2000	
+#DEMO#Atalasoft.Imaging.Codec.Pdf.PdfDecoder, Atalasoft.dotImage.PdfReader
+#DEMO#Atalasoft.Imaging.Codec.Office.OfficeDecoder, Atalasoft.dotImage.Office
